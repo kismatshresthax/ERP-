@@ -1,0 +1,156 @@
+/*home*/
+.home {
+  display: flex;
+}
+.home .homeContainer {
+  flex: 6;
+}
+.home .homeContainer .widgets, .home .homeContainer .chart {
+  display: flex;
+  padding: 10px 0px;
+  gap: 10px;
+}
+.home .homeContainer .charts {
+  /* display: flex; */
+  flex: 1px;
+  /* justify-content: space-between; */
+  padding: 10px 0px;
+  gap: 10px;
+}
+
+/*widget*/
+.widget {
+  display: flex;
+  flex: 1px;
+  justify-content: space-between;
+  padding: 10px;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 3px;
+  border: 1px solid rgb(212, 212, 212);
+  height: 100px;
+}
+.widget .left, .widget .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.widget .title {
+  font-weight: bold;
+  font-size: 14px;
+  color: #a0a0a0;
+}
+.widget .counter {
+  font-size: 15px;
+  font-weight: 300;
+}
+.widget .link {
+  width: max-content;
+  font-size: 12px;
+  border-bottom: 1px solid grey;
+}
+.widget .percentage {
+  display: flex;
+  align-items: center;
+  font-style: 14px;
+}
+.widget .percentage.positive {
+  color: green;
+}
+.widget .percentage.negative {
+  color: red;
+}
+.widget .icon {
+  font-size: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  align-self: flex-end;
+}
+
+/*feature*/
+/* .feature {
+  flex: 3;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border: 1px solid rgb(212, 212, 212);
+  padding: 10px;
+  margin-right: 20px;
+}
+.feature .top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: gray;
+}
+.feature .top .title {
+  font-size: 16px;
+  font-weight: 500;
+}
+.feature .bottom {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.feature .bottom .featureChart {
+  width: 100px;
+  height: 100px;
+}
+.feature .bottom .title {
+  font-weight: 500;
+  color: gray;
+}
+.feature .bottom .amount {
+  font-size: 30px;
+}
+.feature .bottom .desc {
+  font-weight: 300;
+  font-size: 12px;
+  color: grey;
+  text-align: center;
+}
+.feature .bottom .summary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.feature .bottom .summary .item {
+  text-align: center;
+}
+.feature .bottom .summary .item .itemTitle {
+  font-weight: 500;
+  color: gray;
+}
+.feature .bottom .summary .item .itemResult {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 14px;
+}
+.feature .bottom .summary .item .itemResult.positive {
+  color: green;
+}
+.feature .bottom .summary .item .itemResult.negative {
+  color: red;
+} */
+
+/*chart*/
+.chart {
+  flex: 7;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border: 1px solid rgb(212, 212, 212);
+  padding: 10px;
+  color: gray;
+  display: flex;
+  flex-direction: column;
+}
+.chart .title {
+  margin-bottom: 20px;
+}
+.chart .chartGrid {
+  stroke: #e4e1e1;
+}

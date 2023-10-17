@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "product": "Bulgar",
+    "sales": 87,
+    "amount": 222,
+    "date": "Sunday"
+  },
+  {
+    "id": 2,
+    "product": "Kellogs Cereal In A Cup",
+    "sales": 39,
+    "amount": 271,
+    "date": "Monday"
+  },
+  {
+    "id": 3,
+    "product": "Honey - Comb",
+    "sales": 67,
+    "amount": 725,
+    "date": "Tuesday"
+  },
+  {
+    "id": 4,
+    "product": "Pork - Bones",
+    "sales": 35,
+    "amount": 883,
+    "date": "Wednesday"
+  },
+  {
+    "id": 5,
+    "product": "Wine - Beaujolais Villages",
+    "sales": 67,
+    "amount": 619,
+    "date": "Thursday"
+  },
+  {
+    "id": 6,
+    "product": "Potatoes - Pei 10 Oz",
+    "sales": 26,
+    "amount": 734,
+    "date": "Friday"
+  },
+  {
+    "id": 7,
+    "product": "Basil - Dry, Rubbed",
+    "sales": 70,
+    "amount": 617,
+    "date": "Saturday"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "Name": "Peach - Halves",
+    "Quantity": 76,
+    "Date": "11/2/2022",
+    "Amount": 422
+  },
+  {
+    "id": 2,
+    "Name": "Wine - Pinot Noir Pond Haddock",
+    "Quantity": 86,
+    "Date": "5/3/2023",
+    "Amount": 315
+  },
+  {
+    "id": 3,
+    "Name": "Shichimi Togarashi Peppeers",
+    "Quantity": 34,
+    "Date": "7/28/2022",
+    "Amount": 640
+  },
+  {
+    "id": 4,
+    "Name": "Pan Grease",
+    "Quantity": 99,
+    "Date": "1/20/2023",
+    "Amount": 224
+  },
+  {
+    "id": 5,
+    "Name": "Energy Drink Bawls",
+    "Quantity": 4,
+    "Date": "1/14/2023",
+    "Amount": 627
+  },
+  {
+    "id": 6,
+    "Name": "Bread - Multigrain Oval",
+    "Quantity": 16,
+    "Date": "2/2/2023",
+    "Amount": 966
+  },
+  {
+    "id": 7,
+    "Name": "Mackerel Whole Fresh",
+    "Quantity": 72,
+    "Date": "5/27/2023",
+    "Amount": 425
+  },
+  {
+    "id": 8,
+    "Name": "Cinnamon - Stick",
+    "Quantity": 43,
+    "Date": "5/30/2023",
+    "Amount": 545
+  },
+  {
+    "id": 9,
+    "Name": "Soup - Campbells",
+    "Quantity": 49,
+    "Date": "4/7/2023",
+    "Amount": 326
+  },
+  {
+    "id": 10,
+    "Name": "Wine - Bourgogne 2002, La",
+    "Quantity": 70,
+    "Date": "3/2/2023",
+    "Amount": 122
+  },
+  {
+    "id": 11,
+    "Name": "Vegetable - Base",
+    "Quantity": 42,
+    "Date": "10/19/2022",
+    "Amount": 680
+  },
+  {
+    "id": 12,
+    "Name": "Bread - Pita, Mini",
+    "Quantity": 65,
+    "Date": "3/11/2023",
+    "Amount": 993
+  },
+  {
+    "id": 13,
+    "Name": "Mousse - Banana Chocolate",
+    "Quantity": 36,
+    "Date": "1/28/2023",
+    "Amount": 847
+  },
+  {
+    "id": 14,
+    "Name": "Veal - Leg, Provimi - 50 Lb Max",
+    "Quantity": 67,
+    "Date": "2/6/2023",
+    "Amount": 970
+  },
+  {
+    "id": 15,
+    "Name": "Apple - Fuji",
+    "Quantity": 79,
+    "Date": "7/21/2022",
+    "Amount": 778
+  },
+  {
+    "id": 16,
+    "Name": "Lid Tray - 12in Dome",
+    "Quantity": 8,
+    "Date": "10/7/2022",
+    "Amount": 808
+  },
+  {
+    "id": 17,
+    "Name": "Ham - Black Forest",
+    "Quantity": 2,
+    "Date": "2/13/2023",
+    "Amount": 815
+  },
+  {
+    "id": 18,
+    "Name": "Maple Syrup",
+    "Quantity": 66,
+    "Date": "7/5/2023",
+    "Amount": 650
+  },
+  {
+    "id": 19,
+    "Name": "Bay Leaf Ground",
+    "Quantity": 76,
+    "Date": "4/20/2023",
+    "Amount": 962
+  },
+  {
+    "id": 20,
+    "Name": "Bread - Pullman, Sliced",
+    "Quantity": 5,
+    "Date": "4/2/2023",
+    "Amount": 264
+  },
+  {
+    "id": 21,
+    "Name": "Creme De Menthe Green",
+    "Quantity": 28,
+    "Date": "8/24/2022",
+    "Amount": 173
+  },
+  {
+    "id": 22,
+    "Name": "Beans - Navy, Dry",
+    "Quantity": 86,
+    "Date": "7/25/2023",
+    "Amount": 313
+  },
+  {
+    "id": 23,
+    "Name": "Ice - Clear, 300 Lb For Carving",
+    "Quantity": 91,
+    "Date": "11/17/2022",
+    "Amount": 849
+  },
+  {
+    "id": 24,
+    "Name": "Juice - Clam, 46 Oz",
+    "Quantity": 11,
+    "Date": "11/11/2022",
+    "Amount": 362
+  },
+  {
+    "id": 25,
+    "Name": "Papadam",
+    "Quantity": 84,
+    "Date": "3/19/2023",
+    "Amount": 127
+  },
+  {
+    "id": 26,
+    "Name": "Lobster - Canned Premium",
+    "Quantity": 24,
+    "Date": "8/29/2022",
+    "Amount": 308
+  },
+  {
+    "id": 27,
+    "Name": "Turnip - Mini",
+    "Quantity": 3,
+    "Date": "2/9/2023",
+    "Amount": 728
+  },
+  {
+    "id": 28,
+    "Name": "Bar Mix - Lime",
+    "Quantity": 85,
+    "Date": "4/6/2023",
+    "Amount": 324
+  },
+  {
+    "id": 29,
+    "Name": "Oil - Sunflower",
+    "Quantity": 71,
+    "Date": "7/1/2023",
+    "Amount": 670
+  },
+  {
+    "id": 30,
+    "Name": "Tamarind Paste",
+    "Quantity": 61,
+    "Date": "5/26/2023",
+    "Amount": 510
+  },
+  {
+    "id": 31,
+    "Name": "Pastry - Key Limepoppy Seed Tea",
+    "Quantity": 40,
+    "Date": "1/26/2023",
+    "Amount": 875
+  },
+  {
+    "id": 32,
+    "Name": "Sauce - Black Current, Dry Mix",
+    "Quantity": 17,
+    "Date": "3/14/2023",
+    "Amount": 643
+  },
+  {
+    "id": 33,
+    "Name": "Beef - Rib Roast, Capless",
+    "Quantity": 17,
+    "Date": "3/31/2023",
+    "Amount": 101
+  },
+  {
+    "id": 34,
+    "Name": "Oil - Olive",
+    "Quantity": 44,
+    "Date": "3/31/2023",
+    "Amount": 786
+  },
+  {
+    "id": 35,
+    "Name": "Oil - Sunflower",
+    "Quantity": 80,
+    "Date": "2/22/2023",
+    "Amount": 251
+  },
+  {
+    "id": 36,
+    "Name": "Tray - Foam, Square 4 - S",
+    "Quantity": 66,
+    "Date": "6/25/2023",
+    "Amount": 904
+  },
+  {
+    "id": 37,
+    "Name": "Yucca",
+    "Quantity": 4,
+    "Date": "8/7/2023",
+    "Amount": 523
+  },
+  {
+    "id": 38,
+    "Name": "Chocolate - Dark",
+    "Quantity": 47,
+    "Date": "5/20/2023",
+    "Amount": 693
+  },
+  {
+    "id": 39,
+    "Name": "Wine - Fino Tio Pepe Gonzalez",
+    "Quantity": 58,
+    "Date": "8/5/2023",
+    "Amount": 144
+  },
+  {
+    "id": 40,
+    "Name": "Octopus - Baby, Cleaned",
+    "Quantity": 39,
+    "Date": "12/18/2022",
+    "Amount": 102
+  },
+  {
+    "id": 41,
+    "Name": "Oregano - Dry, Rubbed",
+    "Quantity": 26,
+    "Date": "8/4/2023",
+    "Amount": 419
+  },
+  {
+    "id": 42,
+    "Name": "Soup - Campbells, Cream Of",
+    "Quantity": 88,
+    "Date": "7/7/2022",
+    "Amount": 340
+  },
+  {
+    "id": 43,
+    "Name": "Pepper - Paprika, Hungarian",
+    "Quantity": 75,
+    "Date": "3/4/2023",
+    "Amount": 920
+  },
+  {
+    "id": 44,
+    "Name": "Coffee - Decafenated",
+    "Quantity": 98,
+    "Date": "4/25/2023",
+    "Amount": 339
+  },
+  {
+    "id": 45,
+    "Name": "Yeast Dry - Fermipan",
+    "Quantity": 10,
+    "Date": "4/9/2023",
+    "Amount": 286
+  },
+  {
+    "id": 46,
+    "Name": "Veal - Heart",
+    "Quantity": 73,
+    "Date": "3/19/2023",
+    "Amount": 928
+  },
+  {
+    "id": 47,
+    "Name": "Irish Cream - Butterscotch",
+    "Quantity": 84,
+    "Date": "10/30/2022",
+    "Amount": 944
+  },
+  {
+    "id": 48,
+    "Name": "Napkin White",
+    "Quantity": 82,
+    "Date": "1/18/2023",
+    "Amount": 483
+  },
+  {
+    "id": 49,
+    "Name": "Easy Off Oven Cleaner",
+    "Quantity": 24,
+    "Date": "6/10/2023",
+    "Amount": 593
+  },
+  {
+    "id": 50,
+    "Name": "Island Oasis - Raspberry",
+    "Quantity": 28,
+    "Date": "1/24/2023",
+    "Amount": 142
+  }
+]

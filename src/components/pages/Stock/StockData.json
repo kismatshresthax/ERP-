@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "stock": "Beans - French",
+    "quantity": 298,
+    "quantityout": 681
+  },
+  {
+    "id": 2,
+    "stock": "Sherbet - Raspberry",
+    "quantity": 716,
+    "quantityout": 528
+  },
+  {
+    "id": 3,
+    "stock": "Soup - Campbells, Minestrone",
+    "quantity": 378,
+    "quantityout": 967
+  },
+  {
+    "id": 4,
+    "stock": "Rice - Jasmine Sented",
+    "quantity": 330,
+    "quantityout": 323
+  },
+  {
+    "id": 5,
+    "stock": "Pepper - Cayenne",
+    "quantity": 333,
+    "quantityout": 106
+  },
+  {
+    "id": 6,
+    "stock": "Bread - Bagels, Mini",
+    "quantity": 663,
+    "quantityout": 194
+  },
+  {
+    "id": 7,
+    "stock": "Chinese Foods - Chicken",
+    "quantity": 112,
+    "quantityout": 651
+  },
+  {
+    "id": 8,
+    "stock": "Bread - Roll, Italian",
+    "quantity": 108,
+    "quantityout": 396
+  },
+  {
+    "id": 9,
+    "stock": "Butter - Unsalted",
+    "quantity": 279,
+    "quantityout": 972
+  },
+  {
+    "id": 10,
+    "stock": "Sauce - Vodka Blush",
+    "quantity": 820,
+    "quantityout": 100
+  },
+  {
+    "id": 11,
+    "stock": "Wine - Niagara,vqa Reisling",
+    "quantity": 542,
+    "quantityout": 472
+  },
+  {
+    "id": 12,
+    "stock": "Tofu - Soft",
+    "quantity": 820,
+    "quantityout": 153
+  },
+  {
+    "id": 13,
+    "stock": "Sansho Powder",
+    "quantity": 631,
+    "quantityout": 274
+  },
+  {
+    "id": 14,
+    "stock": "Nut - Almond, Blanched, Whole",
+    "quantity": 949,
+    "quantityout": 114
+  },
+  {
+    "id": 15,
+    "stock": "Lettuce - Lambs Mash",
+    "quantity": 683,
+    "quantityout": 515
+  },
+  {
+    "id": 16,
+    "stock": "Cheese - Comte",
+    "quantity": 116,
+    "quantityout": 831
+  },
+  {
+    "id": 17,
+    "stock": "Ecolab - Lime - A - Way 4/4 L",
+    "quantity": 460,
+    "quantityout": 916
+  },
+  {
+    "id": 18,
+    "stock": "White Baguette",
+    "quantity": 335,
+    "quantityout": 792
+  },
+  {
+    "id": 19,
+    "stock": "Dawn Professionl Pot And Pan",
+    "quantity": 893,
+    "quantityout": 813
+  },
+  {
+    "id": 20,
+    "stock": "Bar Bran Honey Nut",
+    "quantity": 684,
+    "quantityout": 613
+  }
+]

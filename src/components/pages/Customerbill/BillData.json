@@ -1,0 +1,141 @@
+[{
+  "customer_id": 1,
+  "customer_name": "Gabvine",
+  "bill_1_date": "6/20/2023",
+  "Amount_1": 6635.43,
+  "bill_2_date": "7/9/2023",
+  "Amount_2": 5154.61
+}, {
+  "customer_id": 2,
+  "customer_name": "Gabvine",
+  "bill_1_date": "5/4/2023",
+  "Amount_1": 8282.78,
+  "bill_2_date": "7/19/2023",
+  "Amount_2": 7719.35
+}, {
+  "customer_id": 3,
+  "customer_name": "Wordpedia",
+  "bill_1_date": "5/20/2023",
+  "Amount_1": 5626.87,
+  "bill_2_date": "5/19/2023",
+  "Amount_2": 8367.61
+}, {
+  "customer_id": 4,
+  "customer_name": "Feedbug",
+  "bill_1_date": "6/2/2023",
+  "Amount_1": 7594.34,
+  "bill_2_date": "6/17/2023",
+  "Amount_2": 4619.26
+}, {
+  "customer_id": 5,
+  "customer_name": "Zoomcast",
+  "bill_1_date": "6/11/2023",
+  "Amount_1": 1535.19,
+  "bill_2_date": "7/2/2023",
+  "Amount_2": 1096.97
+}, {
+  "customer_id": 6,
+  "customer_name": "Ainyx",
+  "bill_1_date": "7/15/2023",
+  "Amount_1": 1317.08,
+  "bill_2_date": "8/2/2023",
+  "Amount_2": 4469.06
+}, {
+  "customer_id": 7,
+  "customer_name": "Edgeify",
+  "bill_1_date": "6/22/2023",
+  "Amount_1": 7248.75,
+  "bill_2_date": "7/4/2023",
+  "Amount_2": 9118.05
+}, {
+  "customer_id": 8,
+  "customer_name": "Zoombox",
+  "bill_1_date": "5/1/2023",
+  "Amount_1": 6909.71,
+  "bill_2_date": "8/17/2023",
+  "Amount_2": 3936.88
+}, {
+  "customer_id": 9,
+  "customer_name": "Zava",
+  "bill_1_date": "6/8/2023",
+  "Amount_1": 9978.98,
+  "bill_2_date": "6/22/2023",
+  "Amount_2": 3848.04
+}, {
+  "customer_id": 10,
+  "customer_name": "Mudo",
+  "bill_1_date": "6/8/2023",
+  "Amount_1": 4894.62,
+  "bill_2_date": "5/19/2023",
+  "Amount_2": 1978.82
+}, {
+  "customer_id": 11,
+  "customer_name": "Cogilith",
+  "bill_1_date": "7/19/2023",
+  "Amount_1": 1541.93,
+  "bill_2_date": "8/14/2023",
+  "Amount_2": 2315.9
+}, {
+  "customer_id": 12,
+  "customer_name": "Browseblab",
+  "bill_1_date": "6/6/2023",
+  "Amount_1": 6759.44,
+  "bill_2_date": "6/1/2023",
+  "Amount_2": 7693.67
+}, {
+  "customer_id": 13,
+  "customer_name": "Meemm",
+  "bill_1_date": "5/14/2023",
+  "Amount_1": 6412.41,
+  "bill_2_date": "5/11/2023",
+  "Amount_2": 8720.7
+}, {
+  "customer_id": 14,
+  "customer_name": "Gigaclub",
+  "bill_1_date": "6/22/2023",
+  "Amount_1": 1305.15,
+  "bill_2_date": "8/5/2023",
+  "Amount_2": 2532.61
+}, {
+  "customer_id": 15,
+  "customer_name": "Npath",
+  "bill_1_date": "7/18/2023",
+  "Amount_1": 5924.08,
+  "bill_2_date": "7/17/2023",
+  "Amount_2": 2347.68
+}, {
+  "customer_id": 16,
+  "customer_name": "Npath",
+  "bill_1_date": "8/2/2023",
+  "Amount_1": 7790.15,
+  "bill_2_date": "7/2/2023",
+  "Amount_2": 8175.13
+}, {
+  "customer_id": 17,
+  "customer_name": "Vinte",
+  "bill_1_date": "8/11/2023",
+  "Amount_1": 1226.46,
+  "bill_2_date": "7/29/2023",
+  "Amount_2": 6576.67
+}, {
+  "customer_id": 18,
+  "customer_name": "Myworks",
+  "bill_1_date": "5/5/2023",
+  "Amount_1": 7150.52,
+  "bill_2_date": "8/16/2023",
+  "Amount_2": 5347.74
+}, {
+  "customer_id": 19,
+  "customer_name": "Dynava",
+  "bill_1_date": "8/15/2023",
+  "Amount_1": 6011.95,
+  "bill_2_date": "6/25/2023",
+  "Amount_2": 1753.66
+}, {
+  "customer_id": 20,
+  "customer_name": "Flashpoint",
+  "bill_1_date": "6/11/2023",
+  "Amount_1": 6024.38,
+  "bill_2_date": "6/21/2023",
+  "Amount_2": 8896.83
+}]

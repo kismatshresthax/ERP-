@@ -1,0 +1,50 @@
+.purchaseTable {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 1rem;
+  }
+  
+  .purchaseTable.table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .purchaseTable.th,
+  .purchaseTable.td {
+    border: 4px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 12px;
+  }
+  
+  .purchaseTable.th {
+    background-color: rgb(229, 236, 240);
+  }
+  
+  .purchaseTable.td {
+    background-color: rgb(205, 235, 253);
+  }
+  
+  .purchaseTable.form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 12px;
+  }
+  .input{
+      padding:5px;
+      size : 4px;
+      display: inline-flex;
+      justify-content: space-between;
+      width: 10%;
+      margin: 5px 10px 5px 0;
+      
+  }

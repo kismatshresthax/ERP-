@@ -1,0 +1,19 @@
+.tree-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    }
+    
+    
+    .tree-table th,
+    .tree-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    }
+    .icon {
+    border-width: 0;
+    }
+    .parent-node {
+    background-color: #ebebeb;
+    }
+    

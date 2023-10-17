@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "Category": "Overhead Doors",
+    "Quantity": 54,
+    "Color": "Crimson"
+  },
+  {
+    "id": 2,
+    "Category": "Hard Tile & Stone",
+    "Quantity": 40,
+    "Color": "Pink"
+  },
+  {
+    "id": 3,
+    "Category": "Soft Flooring and Base",
+    "Quantity": 26,
+    "Color": "Blue"
+  },
+  {
+    "id": 4,
+    "Category": "Hard Tile & Stone",
+    "Quantity": 76,
+    "Color": "Yellow"
+  },
+  {
+    "id": 5,
+    "Category": "Drywall & Acoustical (MOB)",
+    "Quantity": 25,
+    "Color": "Green"
+  },
+  {
+    "id": 6,
+    "Category": "Sitework & Site Utilities",
+    "Quantity": 94,
+    "Color": "Teal"
+  },
+  {
+    "id": 7,
+    "Category": "Framing (Steel)",
+    "Quantity": 13,
+    "Color": "Maroon"
+  },
+  {
+    "id": 8,
+    "Category": "Electrical",
+    "Quantity": 94,
+    "Color": "Khaki"
+  },
+  {
+    "id": 9,
+    "Category": "Masonry",
+    "Quantity": 97,
+    "Color": "Aquamarine"
+  },
+  {
+    "id": 10,
+    "Category": "Doors, Frames & Hardware",
+    "Quantity": 20,
+    "Color": "Crimson"
+  },
+  {
+    "id": 11,
+    "Category": "Fire Protection",
+    "Quantity": 76,
+    "Color": "Fuscia"
+  },
+  {
+    "id": 12,
+    "Category": "Framing (Wood)",
+    "Quantity": 4,
+    "Color": "Maroon"
+  },
+  {
+    "id": 13,
+    "Category": "Doors, Frames & Hardware",
+    "Quantity": 44,
+    "Color": "Green"
+  },
+  {
+    "id": 14,
+    "Category": "Exterior Signage",
+    "Quantity": 39,
+    "Color": "Khaki"
+  },
+  {
+    "id": 15,
+    "Category": "Retaining Wall and Brick Pavers",
+    "Quantity": 59,
+    "Color": "Puce"
+  },
+  {
+    "id": 16,
+    "Category": "Fire Protection",
+    "Quantity": 18,
+    "Color": "Blue"
+  },
+  {
+    "id": 17,
+    "Category": "Wall Protection",
+    "Quantity": 92,
+    "Color": "Aquamarine"
+  },
+  {
+    "id": 18,
+    "Category": "Granite Surfaces",
+    "Quantity": 9,
+    "Color": "Purple"
+  },
+  {
+    "id": 19,
+    "Category": "Temp Fencing, Decorative Fencing and Gates",
+    "Quantity": 25,
+    "Color": "Maroon"
+  },
+  {
+    "id": 20,
+    "Category": "EIFS",
+    "Quantity": 53,
+    "Color": "Indigo"
+  },
+  {
+    "id": 21,
+    "Category": "Structural & Misc Steel Erection",
+    "Quantity": 6,
+    "Color": "Khaki"
+  },
+  {
+    "id": 22,
+    "Category": "Exterior Signage",
+    "Quantity": 47,
+    "Color": "Crimson"
+  },
+  {
+    "id": 23,
+    "Category": "Construction Clean and Final Clean",
+    "Quantity": 10,
+    "Color": "Teal"
+  },
+  {
+    "id": 24,
+    "Category": "Marlite Panels (FED)",
+    "Quantity": 29,
+    "Color": "Green"
+  },
+  {
+    "id": 25,
+    "Category": "Construction Clean and Final Clean",
+    "Quantity": 76,
+    "Color": "Orange"
+  }
+]

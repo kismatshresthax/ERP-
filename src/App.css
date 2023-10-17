@@ -1,0 +1,1674 @@
+
+.main-content{
+
+  display:grid;
+ grid-template-columns:1fr;
+
+}
+
+
+.footer{
+  position: sticky; 
+  width: 100%;
+ 
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  text-align: right;
+  margin-top: auto;
+  margin-bottom: 0px;
+  box-shadow: 0 0.46875rem 2.1875rem rgb(4 9 20 / 3%),
+    0 0.9375rem 1.40625rem rgb(4 9 20 / 3%),
+    0 0.25rem 0.53125rem rgb(4 9 20 / 5%), 0 0.125rem 0.1875rem rgb(4 9 20 / 3%);
+
+}
+
+
+.site-footer {
+  text-align: center;
+
+  color: #100b0b;
+  
+}
+
+.site-footer .copyright {
+  padding: 4px;
+  color: #100b0b;
+  overflow:hidden;
+}
+
+.head{
+  position: sticky; 
+  width: 100%;
+  line-height: 50px;
+  height: 50px;
+  background: #fff;
+
+
+
+ 
+ margin-bottom: 5px; 
+  box-shadow: 0 0.46875rem 2.1875rem rgb(4 9 20 / 3%),
+    0 0.9375rem 1.40625rem rgb(4 9 20 / 3%),
+    0 0.25rem 0.53125rem rgb(4 9 20 / 5%), 0 0.125rem 0.1875rem rgb(4 9 20 / 3%);
+}
+
+.header-section-right {
+  padding-top:10px;
+  padding-left: 280px;
+  height :100%;
+}
+
+.header-section-right span {
+ /* padding: 5px 30px; */
+  border: 0;
+   border-radius: 0%; 
+   cursor: pointer;
+   border-radius: 50%;
+   cursor: pointer;
+   box-shadow: 0 0.46875rem 2.1875rem rgb(4 9 20 / 3%),
+     0 0.9375rem 1.40625rem rgb(4 9 20 / 3%),
+     0 0.25rem 0.53125rem rgb(4 9 20 / 5%), 0 0.125rem 0.1875rem rgb(4 9 20 / 3%)
+   
+}
+
+.show-on-hover {
+  /* display: none; */
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  top: 100%;
+  right: 10px;
+  left: auto;
+  min-width: 145px;
+  text-align: left;
+  z-index: 123;
+  transition: all 0.5s ease;
+}
+
+/* .head .header-section-right>span:hover + .show-on-hover,
+.show-on-hover:hover {
+
+ 
+} */
+.header-section-right>span:hover + .show-on-hover,.show-on-hover:hover {
+  visibility: visible;
+  opacity: 1;
+}
+.header-section-right .show-on-hover .card a {
+  padding: 11px 15px;
+}
+
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input {
+  /* //font: inherit;
+ // letter-spacing: inherit; */
+  color: currentColor;
+ /* // padding: 4px 0 5px */
+  border: 0;
+  box-sizing: content-box!important;
+  background: none;
+  height: 1.7375em !important;
+  margin: 0 !important;
+  -webkit-tap-highlight-color: transparent;
+  display: block !important;
+  min-width: 0 !important;
+  width: 100%;
+
+  -webkit-animation-duration: 10ms !important;
+  animation-duration: 10ms !important;
+  padding-top: 1px !important;
+  padding: 8.5px 14px !important;
+}
+.helper-text {
+  font-size: small;
+  color: #709bf7;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px;
+}
+
+.css-1fkkbi0-MuiTypography-root {
+  margin: 0;
+     
+      font-weight: 400 !important;
+      font-size: 1rem !important;;
+      line-height: 1.5 !important;
+      letter-spacing: 0.00938em !important;
+      color: white !important;
+      margin: 10px !important;
+      margin-top: 40px !important;
+      
+  }
+  .css-1988g2c-MuiTypography-root{
+    margin: 0!important;
+    
+    font-weight: 400!important;
+    font-size: 1rem!important;
+    line-height: 1.5!important;
+    letter-spacing: 0.00938em!important;
+    color: white!important;
+    margin: 20px!important;
+    display: inline-block!important;
+  }
+.nav-item > span > div {
+  background-color: inherit;
+  margin: auto !important;
+}
+
+.css-1q6qtvl-MuiTypography-root {
+  margin: 5px 20px !important;
+}
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  /* padding: 0; */
+  cursor: pointer;
+
+  user-select: none;
+  vertical-align: middle;
+
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+
+  display: flex !important;
+  min-height: 48px !important;
+  padding: 0px 16px !important;
+  -webkit-transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.main-sidebar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.main-sidebar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+
+.fa-lg {
+  font-size: 1.33333rem !important;
+}
+
+.css-1obevt2-MuiAccordionDetails-root {
+  padding: 8px 8px 8px 30px !important;
+  text-align: left;
+  position: relative;
+  border-bottom: 0 !important;
+  box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%),
+    0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+}
+
+/* .css-1obevt2-MuiAccordionDetails-root::before{
+  content: '';
+    height: 2px;
+    width: 10px;
+    background: #fff;
+    position: absolute;
+    left: 30px;
+    top: 16px;
+} */
+
+.MuiAccordion-region > div:last-child .css-1obevt2-MuiAccordionDetails-root {
+  box-shadow: none !important;
+}
+
+svg:not(:root).svg-inline--fa {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.css-1ul282o-MuiTypography-root,.css-1p9iffl-MuiTypography-root,
+.css-1q6qtvl-MuiTypography-root {
+  font-size: 0.8rem !important;
+  text-transform: uppercase !important;
+  text-align: left;
+}
+
+.css-yk16xz-control,
+.css-1pahdxg-control {
+  width: 85% !important;
+  margin: auto !important;
+}
+
+.css-26l3qy-menu {
+  width: 85% !important;
+  margin-left: 7.5% !important;
+  z-index: 999 !important;
+}
+
+.makeStyles-dialogWrapper-14 {
+  top: auto !important;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 6.5px 14px !important;
+}
+
+.makeStyles-root-16 .MuiFormControl-root,
+.purchaseForm > div > div,
+.inventoryProductForm .MuiFormControl-root {
+  width: 92% !important;
+}
+
+.makeStyles-root-9 {
+  margin: 5px 0px 5px 8px !important;
+}
+
+.MuiDialogContent-dividers {
+  padding: 8px 0px !important;
+}
+
+.MuiTypography-h6 {
+  line-height: 2.2 !important;
+}
+
+.MuiToolbar-gutters,
+.css-viou3o-MuiAutocomplete-root .MuiOutlinedInput-root {
+  padding: 0 !important;
+}
+
+.addButton {
+  position: relative;
+}
+/* .MuiButtonBase-root {
+
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+ 
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+
+ 
+} */
+.makeStyles-newButton-1,
+.makeStyles-newButton-2 {
+  right: 0 !important;
+  top: 15px !important;
+}
+
+.MuiTableSortLabel-root:hover {
+  color: #fff !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 1 !important;
+}
+
+/* .css-2b097c-container .css-yk16xz-control, .css-2b097c-container .css-1pahdxg-control{
+  width: 100%!important;
+  margin: 0!important;
+} */
+
+.MuiGrid-item > label,
+.MuiGrid-item button[type="submit"] {
+  display: block;
+  width: 85%;
+  margin: auto;
+}
+
+.MuiCard-root {
+  overflow: unset !important;
+}
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+
+  border: 0!important;
+
+  margin: 0!important;
+  display: inline-flex !important;
+  outline: 0!important;
+  padding:10px !important;
+  position: relative!important;
+  align-items: center!important;
+  user-select: none!important;
+  border-radius: 0!important;
+  vertical-align: middle!important;
+  -webkit-tap-highlight-color: transparent!important;
+  justify-content: center!important;
+  text-decoration: none!important;
+  background-color: transparent!important;
+} 
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected,
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root:hover,
+.css-1aquho2-MuiTabs-indicator {
+
+
+  
+  color: #1976d2 !important;
+} 
+
+#simple-tabpanel-0 .MuiTextField-root > label,
+#simple-tabpanel-1 .MuiTextField-root > label,
+#simple-tabpanel-2 .MuiTextField-root > label,
+#simple-tabpanel-3 .MuiTextField-root > label,
+#simple-tabpanel-4 .MuiTextField-root > label,
+.JournalEntries .MuiTextField-root > label {
+  font-size: 16px;
+  color: #313131;
+}
+
+#simple-tabpanel-0 label + .MuiInput-formControl {
+  margin-top: 20px !important;
+}
+
+.journal-entry-table .css-2b097c-container {
+  padding: 0 !important;
+}
+
+.journal-entry-table .css-yk16xz-control,
+.journal-entry-table .css-1pahdxg-control,
+.coatable-popup .css-yk16xz-control,
+.coatable-popup .css-1pahdxg-control,
+.paymentVoucher .css-yk16xz-control,
+.paymentVoucher .css-1pahdxg-control {
+  width: 100% !important;
+}
+
+.journal-entry-table .css-26l3qy-menu,
+.coatable-popup .css-26l3qy-menu {
+  width: 100% !important;
+  margin-left: 0 !important;
+  z-index: 999 !important;
+}
+
+.journal-entry-table input,
+.purchasePayment input,
+.remainingAmount input {
+  border: 1px solid #ced4da !important;
+}
+
+.journal-entry-table .css-b8ldur-Input input,
+.purchasePayment .css-b8ldur-Input input {
+  border: 0 !important;
+}
+
+.journal-tab1 .input-group-text,
+.journal-tab2 .input-group-text,
+.journal-tab3 .input-group-text,
+.journal-tab4 .input-group-text,
+.journal-tab5 .input-group-text,
+.journal-entry .input-group-text {
+  border: 0;
+  background-color: inherit;
+}
+
+.MuiDialog-paper .MuiDialogContent-root {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.MuiDialog-paper,
+.makeStyles-dialogWrapper-14 {
+  overflow: unset !important;
+}
+
+.css-yk16xz-control,
+.css-g1d714-ValueContainer {
+  cursor: pointer !important;
+}
+
+.coatable-popup .css-26l3qy-menu {
+  z-index: 1000;
+}
+
+
+
+.MuiInput-underline:before,
+.MuiInput-underline:hover:not(.Mui-disabled):before {
+  border-bottom: 1px solid #ced4da !important;
+}
+
+.MuiInput-underline:focus:not(.Mui-disabled):before,
+.MuiInput-underline:after {
+  border-bottom: 1px solid #454545 !important;
+}
+
+.css-1pahdxg-control:hover {
+  outline: 0 !important;
+  box-shadow: none !important;
+  border-color: #ced4da !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+.css-yk16xz-control:focus,
+.css-1pahdxg-control,
+.css-1pahdxg-control:focus,
+.MuiInput-underline:focus:not(.Mui-disabled):before {
+  /* border: 1px solid #454545!important; */
+  outline: 0 !important;
+  box-shadow: none !important;
+  border-color: #454545 !important;
+}
+
+.report-search-banner {
+  background: linear-gradient(60deg, #454545, #000) !important;
+  padding: 18px;
+  margin-bottom: 20px;
+}
+
+.search-banner-title {
+  position: relative;
+}
+
+.search-banner-title .addbtn {
+  position: absolute !important;
+
+  right: 0 !important;
+  top: 1.26rem !important;
+  margin: 0 !important;
+}
+
+.report-search-banner .MuiCard-root {
+  padding: 0px;
+}
+
+.report-search-banner .MuiButton-containedSizeSmall {
+  padding: 8px !important;
+}
+
+.report-search-banner .makeStyles-root-12 .MuiFormControl-root {
+  margin: 4px !important;
+}
+
+.coapage .addButton,
+.proCategoryPage .addButton {
+  text-align: right;
+}
+
+.coapage .makeStyles-newButton-2,
+.proCategoryPage .makeStyles-newButton-2 {
+  top: 0 !important;
+}
+
+.purchase-form .table tr td:first-child .css-2b097c-container,
+.purchase-form .table tr td:nth-child(2) .css-2b097c-container,
+.purchaseReturn-form .table tr td:first-child .css-2b097c-container,
+.purchaseReturn-form .table tr td:nth-child(2) .css-2b097c-container {
+  padding: 0 !important;
+}
+
+.purchase-form .table tr td .css-2b097c-container .css-yk16xz-control,
+.purchase-form .table tr td .css-2b097c-container .css-1pahdxg-control,
+.purchaseReturn-form .table tr td .css-2b097c-container .css-yk16xz-control,
+.purchaseReturn-form .table tr td .css-2b097c-container .css-1pahdxg-control {
+  /* width: 100%!important; */
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.purchase-form .css-26l3qy-menu {
+  margin: 0 !important;
+}
+
+.purchase-form td > input,
+.purchase-form .col > input,
+.purchaseReturn-form td > input,
+.baseConversion-form td > input {
+  border: 1px solid #ced4da !important;
+  border-radius: 5px;
+}
+
+.purchase-form td > input:focus,
+.purchase-form .col > input:focus,
+.purchaseReturn-form td > input:focus,
+.baseConversion-form td > input:focus {
+  outline: 0 !important;
+  box-shadow: none !important;
+  border-color: #454545 !important;
+}
+
+
+
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded {
+  min-height: 48px !important;
+  /* border-bottom: 2px solid red; */
+  
+}
+
+.css-o4b71y-MuiAccordionSummary-content.Mui-expanded {
+  margin: 0 !important;
+}
+
+.form-control,
+.MuiInputBase-input,
+input,
+.css-yk16xz-control,
+.css-1pahdxg-control,
+.css-26l3qy-menu {
+  font-size: 15px !important;
+}
+
+#v-pills-tabContent .tab-pane {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  border: 0;
+}
+
+.MuiButton-text {
+  padding: 2px !important;
+}
+
+.coapage .makeStyles-newButton-1,
+.proCategoryPage .makeStyles-root-9 {
+  right: 0 !important;
+  top: 0 !important;
+  margin: 0 !important;
+}
+
+.purchaseForm .css-yk16xz-control,
+.purchaseForm .css-1pahdxg-control {
+  width: 100% !important;
+  margin: 8px !important;
+}
+
+
+.reportNotFound{
+  text-align: center;
+}
+.reportPage .reportHeader {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.reportPage .reportHeader p {
+  margin-bottom: 0;
+}
+.reportPage .companyName {
+  font-weight: 900;
+}
+.reportPage .companyReport {
+  font-weight: 600;
+}
+.reportPage .date {
+  display: flex;
+  justify-content: space-between;
+}
+.reportPage table {
+  width: 100%;
+}
+.reportPage table th {
+  text-align: center;
+  position: sticky;
+  top: 33px;
+  background: #fff;
+}
+.reportPage table,
+.reportPage table th,
+.reportPage table td {
+  border: 1px solid #aaa;
+  border-collapse: collapse;
+  padding: 2px;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
+}
+.printBtn {
+  margin: 0 !important;
+}
+
+.MuiInputLabel-asterisk,
+.MuiFormLabel-asterisk,
+.css-wgai2y-MuiFormLabel-asterisk {
+  color: red !important;
+}
+
+.userPasswordForm .css-yk16xz-control,
+.userPasswordForm .css-1pahdxg-control {
+  width: 100% !important;
+}
+
+
+
+@media only screen and (max-width: 1100px) {
+  .journal-tabs button {
+    width: fit-content !important;
+    min-width: 120px !important;
+    max-width: 120px !important;
+    font-size: 0.7rem !important;
+    padding: 6px 15px !important;
+  }
+  .MuiTableCell-sizeSmall {
+    padding: 6px !important;
+  }
+  td.MuiTableCell-sizeSmall:last-child {
+    padding-right: 0 !important;
+  }
+  .MuiTableCell-sizeSmall button {
+    margin: 1px;
+  }
+  /* .proCategoryTbl{
+    width: 730px;
+    overflow-x: auto;
+  } */
+}
+
+ @media print {
+   /* @page{
+  size: landscape!important;  
+ }   */
+
+  .main-sidebar,
+  .search-banner-title,
+  .report-search-banner,
+  .printBtn,
+  .btn-success,
+  .journalTable td,
+  .journalTable th,
+  .purchaseReturnTbl,
+  .search,
+  .rowsalesSummaryTable {
+    display: none !important;
+  }
+  .reportPage {
+    margin-left: -50px !important;
+    padding: 0 !important;
+  }
+  .reportPage th,
+  .reportPage td {
+    padding: 0 !important;
+  }
+  .reportPage {
+    font-size: 70% !important;
+  }
+  .reportPage table th {
+    position: inherit !important;
+    background: inherit !important;
+  }
+  /* .jreportPage .reportHeader{  
+    margin-top: 300px!important;
+  } */MuiMenuItem-root
+  .materializedReportTable {
+    margin-left: -34px !important;
+  }
+  .salesReport .reportPage {
+    margin-left: 0 !important;
+    padding: 20px !important;
+  }
+  .purchaseReport .reportPage {
+    margin-left: 0 !important;
+    padding: 20px !important;
+  }
+  .materializedReport .reportPage {
+    margin-left: 0 !important;
+    padding: 20px !important;
+  }
+  /* .salesreturnReport .jreportPage{
+    margin-left: 0!important;
+    padding: 20px!important;
+  } */
+  .salesMatrix{
+    width:100% !important;
+    padding: 5px !important;
+  }
+  .salesReturnReport,
+  .purchaseReturnReport {
+    padding: 20px !important;
+  }
+  .salesReturnReport .col-sm-auto,
+  .purchaseReturnReport .col-sm-auto {
+    width: 50% !important;
+  }
+}
+
+.jreportPage .reportHeader {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.jreportPage .reportHeader p {
+  margin-bottom: 0;
+}
+.jreportPage .companyName {
+  font-weight: 900;
+}
+.jreportPage .companyReport {
+  font-weight: 600;
+}
+.jreportPage .date {
+  display: flex;
+  justify-content: space-between;
+}
+.jreportPage table {
+  width: 100%;
+}
+.jreportPage table th {
+  text-align: center;
+}
+.jreportPage table,
+.jreportPage table th,
+.jreportPage table td {
+  border: 1px solid #aaa;
+  border-collapse: collapse;
+  padding: 2px;
+}
+
+.errorTxt {
+  color: red;
+}
+.sub {
+  margin-top: 50px;
+}
+
+/* .MuiFormControl-root>label{
+  font-size: 13px!important;
+} */
+
+.purchasePayment .css-yk16xz-control,
+.purchasePayment .css-1pahdxg-control {
+  margin-right: auto !important;
+  margin-left: 0 !important;
+}
+
+.purchasePayment table {
+  margin-bottom: 0 !important;
+}
+
+.purchasePayment button:hover {
+  color: #fff !important;
+}
+
+.purchaseForm3 p,
+.purchaseReturn-form p {
+  margin-bottom: 0.3rem !important;
+}
+
+.Mui-focused {
+  color: #313131 !important;
+}
+
+.Mui-focused .MuiOutlinedInput-notchedOutline {
+  color: #313131 !important;
+  border-color: #313131 !important;
+  border-width: 1px !important;
+}
+
+.remainingAmount input {
+  width: 100%;
+  padding: 0.5rem 0.5rem;
+}
+
+.salesInvoice .buyerName,
+.salesInvoice .buyerAddress,
+.salesInvoice .smalltxt {
+  text-align: left;
+}
+
+.salesInvoice .buyerSign,
+.salesInvoice .sellerSign {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.salesInvoice .buyerSign p:first-child,
+.salesInvoice .sellerSign p:first-child {
+  margin-bottom: 0;
+}
+
+.materializedReportTable th,
+.materializedReportTable td {
+  max-width: 50px;
+  overflow-wrap: anywhere;
+}
+
+.pull-right {
+  float: right;
+}
+
+.printButtonCase {
+  text-align: right;
+}
+
+.btn-print {
+  border: 1px solid #3f51b5;
+  color: #3f51b5;
+  border-radius: 5px;
+  padding: 2px 10px;
+  font-size: 13px;
+}
+
+.btn-print:hover {
+  background-color: #3f51b5;
+  color: #fff;
+}
+
+.productsAdd .css-yk16xz-control,
+.productsAdd .css-1pahdxg-control,
+.productsAdd .css-1fhf3k1-control {
+  width: 96% !important;
+  margin: 8px !important;
+}
+
+.productsAdd p {
+  margin: 0 8px -11px 20px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* .tab {
+height: 10px;
+background: #aaa;
+} */
+
+.journal-tabs button {
+  font-size: 0.75rem;
+  padding: 12px;
+}
+
+.paymentVoucher .partyName .css-yk16xz-control,
+.paymentVoucher .partyName .css-1pahdxg-control {
+  height: 33px !important;
+  min-height: 33px !important;
+}
+
+.MuiStepConnector-root {
+  margin-top: 6px;
+}
+
+.setupStepper .makeStyles-root-4 .MuiFormControl-root {
+  width: 94% !important;
+}
+
+.css-13xfq8m-MuiTabPanel-root {
+  padding: 24px 0 !important;
+}
+
+.salesSummaryPage .makeStyles-newButton-1,
+.salesSummaryPage .makeStyles-newButton-2 {
+  top: 65px !important;
+}
+
+.customersPage .makeStyles-newButton-2 {
+  top: 50px !important;
+}
+
+.baseConversion-form td > .css-2b097c-container {
+  padding: 0 !important;
+}
+
+.baseConversion-form td > .css-2b097c-container > .css-yk16xz-control,
+.baseConversion-form td > .css-2b097c-container > .css-1pahdxg-control {
+  width: 100% !important;
+}
+
+.setupFiscal .MuiFormControl-root {
+  width: 100% !important;
+  margin: 8px 0 !important;
+}
+
+.journal-tab1 > button {
+  margin: 16px 4px 4px !important;
+  border-radius: 4px !important;
+}
+
+.journal-entry-table th {
+  text-align: center;
+}
+
+.journal-entry-table th:last-child {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.journal-entry-table td:last-child {
+  padding-left: 30px;
+}
+
+.addProductsForm .css-yk16xz-control,
+.addProductsForm .css-1pahdxg-control,
+.addProductsForm .css-1fhf3k1-control {
+  width: 80% !important;
+}
+
+.salesVoid-form .MuiGrid-item > label,
+.salesVoid-form .css-yk16xz-control,
+.salesVoid-form .css-1pahdxg-control {
+  width: 100% !important;
+}
+
+/* input.error{
+  animation: shake 0.2s ease-in-out 0s 2;
+  border: 1px solid #d32f2f;
+} */
+
+.MuiFormHelperText-root,
+.Mui-error,
+.MuiFormHelperText-sizeSmall,
+.MuiFormHelperText-contained,
+.css-k4qjio-MuiFormHelperText-root {
+  animation: shake 0.2s ease-in-out 0s 2;
+}
+
+/* @keyframes shake {
+  0% { transform: translate( 0rem, 0rem); }
+  25% {transform: translate( 0rem, -0.5rem, 0rem, 0.5rem);}
+  75% {transform: translate( 0rem, 0.5rem, 0rem, -0.5rem);}
+  100% { transform: translate( 0rem, 0rem); }
+} */
+
+@keyframes shake {
+  0% {
+    margin: 0rem 0rem;
+  }
+  25% {
+    margin: 0rem 0.5rem 0rem -0.5rem;
+  }
+  75% {
+    margin: 0rem -0.5rem 0rem 0.5rem;
+  }
+  100% {
+    margin: 0rem 0rem;
+  }
+}
+
+.inventoryTransfer button {
+  width: 100px !important;
+  margin: 8px !important;
+}
+
+textarea::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red !important;
+  opacity: 1; /* Firefox */
+}
+
+textarea:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: red !important;
+}
+
+textarea::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: red !important;
+}
+
+.userForm .css-yk16xz-control,
+.userForm .css-1pahdxg-control {
+  width: 80% !important;
+  margin: 8px !important;
+}
+
+.retailSales>div+div{
+  margin-top: 15px;
+}
+
+.retailSales label, .retailSales label span {
+  font-size: inherit;
+}
+
+.retailSales label span{
+  padding: 0 2px;
+}
+
+fieldset.product--details {
+  display: block;
+  margin-inline-start: 2px;
+  margin-inline-end: 700px;
+  padding-block-start: 0.35em;
+  padding-inline-start: 0.75em;
+  padding-inline-end: 0.75em;
+  padding-block-end: 0.625em;
+  min-inline-size: min-content;
+  border-width: 1px;
+  border-style: groove;
+  border-color: rgba(0, 0, 0, 0.23);
+  border-image: initial;
+}
+ .product--details>legend  {
+  float: none;
+  width: auto;
+  padding: 0;
+  margin-bottom: 0;
+  font-size: inherit;
+  line-height: inherit;
+  display: block;
+  padding-inline-start: 2px;
+  padding-inline-end: 2px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+}
+
+
+
+.retailSales input{
+  cursor: pointer;
+}
+
+.retailSales .MuiFormControl-root, .retailSales .MuiTextField-root, .retailSales .css-1u3bzj6-MuiFormControl-root-MuiTextField-root,
+.retailSales .css-yk16xz-control, .retailSales .css-1pahdxg-control{
+  width: 100%!important;
+}
+
+/* .retailSales .css-26l3qy-menu {
+  width: 100% !important;
+  margin: 0 !important;
+  z-index: 999 !important;
+} */
+
+.retailSales .payment-section>div+div, .retailSales .discount-section>div+div{
+  margin-top: 10px;
+}
+
+.retailSales .customerDetails .row, .retailSales .productDetails .row{
+  --bs-gutter-x: 0.5rem!important;
+}
+
+.paymentDetails{
+  position: relative;
+}
+
+.product--details .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+  top: -4px;
+}
+
+.bill-to .MuiSvgIcon-root{
+  font-size: 1rem;
+}
+
+.MuiPaper-root>ul>li{
+  font-size: 0.8rem!important;
+}
+
+.productDetails .table td>input, .productDetails .table td>select{
+  max-width: 60px!important;
+  height: 38px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  padding: 3px 5px;
+}
+
+.productDetails .table td:nth-child(2)>input, .productDetails .table td:nth-child(2)>select{
+  max-width: 100px!important;
+}
+
+.productDetails .table td>div, .productDetails .table td>div .css-yk16xz-control{
+  padding: 0!important;
+  width: 95%!important;
+  margin: 0!important;
+}
+
+input:disabled{
+  cursor: not-allowed;
+}
+.productDetails_ .table td>input, .productDetails_ .table td>select{
+  max-width: 60px!important;
+  height: 38px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  padding: 3px 5px;
+}
+
+.productDetails_ .table td:nth-child(2)>input, .productDetails_ .table td:nth-child(2)>select{
+  max-width: 100px!important;
+}
+
+.productDetails_ .table td>div, .productDetails_ .table td>div .css-yk16xz-control{
+  padding: 0!important;
+  width: 95%!important;
+  margin: 0!important;
+}
+ fieldset.bill-to, fieldset.product-details, fieldset.payment-details {
+  display: block;
+  margin-inline-start: 2px;
+  margin-inline-end: 2px;
+  padding-block-start: 0.35em;
+  padding-inline-start: 0.75em;
+  padding-inline-end: 0.75em;
+  padding-block-end: 0.625em;
+  min-inline-size: min-content;
+  border-width: 1px;
+  border-style: groove;
+  border-color: rgba(0, 0, 0, 0.23);
+  border-image: initial;
+}
+
+.customer-details>legend, .bill-to>legend, .product-details>legend, .payment-details>legend {
+  float: none;
+  width: auto;
+  padding: 0;
+  margin-bottom: 0;
+  font-size: inherit;
+  line-height: inherit;
+  display: block;
+  padding-inline-start: 2px;
+  padding-inline-end: 2px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+}
+.head-bill>h3{
+padding-left: '15px';
+}
+@media print
+{
+      .page-break  { display:block; page-break-before:always; }
+
+}
+inv{
+  padding:3
+}
+.css-1217csg-MuiTable-root {
+  display: table;
+    width: 97%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    min-width: 500px;
+}
+fieldset.productcart{
+  display: inline;
+  margin-inline-start: 404px;
+  margin-inline-end: 700px;
+  padding-block-start: 0.35em;
+  padding-inline-start: 0.75em;
+  padding-inline-end: 0.75em;
+  padding-block-end: 0.625em;
+  min-inline-size: min-content;
+  border-width: 1px;
+  border-style: groove;
+  border-color: rgba(0, 0, 0, 0.23);
+  border-image: initial;
+}
+productcart{
+
+}
+.gap{
+  margin: 10px;
+ 
+}
+
+@page  {
+ 
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+
+
+
+
+div.Section1 {
+  page: Section1;
+} 
+.Fiscal{
+  width:300px;
+}
+.select_filter {
+  width: 400px;
+  margin: 20px auto;
+}
+.btn-excel-pdf{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap:"20px";
+  
+
+}
+.button1{
+  position: relative;
+}
+.back-btn{
+  position: absolute;
+  float :right;
+  left:950px;
+  top:-10px;
+
+}
+.back-bt{
+  position: absolute;
+  float :right;
+  left:750px;
+  top:-10px;
+
+}
+.date-time {
+  font-size: 13px;
+  text-align: left;
+  color: #777;
+  margin-bottom: 13px;
+}
+.report-display{
+  display: none;
+}
+.print-component {
+  display: none;
+}
+
+.print-component.visible {
+  display: block;
+}
+.tsp_card {
+  height: 100%;
+}
+.warehouseName{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.Report-print{
+  margin-top: -50px;
+}
+.custom-search {
+  font-family: Poppins, Helvetica, "sans-serif";
+}
+.custom-search:nth-child(1) {
+  position: relative !important;
+  height: 46px !important;
+}
+.custom-search .wrapper {
+  z-index: 11 !important;
+  border: none !important;
+  border-radius: 0.475rem !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  padding-left: 0 !important;
+  position: absolute !important;
+  display: flex !important;
+  color: #212121 !important;
+  font-size: 16px !important;
+  flex-direction: column !important;
+  width: 100% !important;
+}
+.custom-search .wrapper div:nth-child(2) {
+  font-size: 14px !important;
+  background: #FFFFFF !important;
+  border: 1px solid #ced4da !important;
+  border-radius: 0.475rem !important;
+}
+.custom-search .wrapper div:nth-child(2) > .line {
+  display: none !important;
+  background-color: #dee2e6 !important;
+  opacity: 1 !important;
+  width: calc(100% - 26px) !important;
+  border-top: 1px solid rgb(232, 234, 237) !important;
+  margin: 0px 20px 0px 14px !important;
+  padding-bottom: 4px !important;
+}
+.custom-search .wrapper div:nth-child(2) ul {
+  padding-bottom: 0 !important;
+  font-family: Poppins, Helvetica, "sans-serif" !important;
+}
+.custom-search .wrapper div:nth-child(2) ul li {
+  position: relative !important;
+  padding: 0.688rem 0.938rem !important;
+}
+.custom-search .wrapper div:nth-child(2) ul li:before {
+  content: "\f002" !important;
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 900 !important;
+  -webkit-font-smoothing: antialiased !important;
+  display: inline-block !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  text-rendering: auto !important;
+  line-height: 1 !important;
+  color: #6C757D !important;
+}
+.custom-search .wrapper div:nth-child(2) .ellipsis {
+  display: flex !important;
+  align-items: center !important;
+  text-align: left !important;
+  width: 100% !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+.custom-search .wrapper div:nth-child(2) .ellipsis span {
+  color: #6C757D !important;
+}
+.custom-search .wrapper div:nth-child(2) .selected {
+  background-color:  #6C757D  !important;
+}
+.custom-search .wrapper div:nth-child(2) .selected:first-child {
+  border-top-left-radius: 0.475rem !important;
+  border-top-right-radius: 0.475rem !important;
+}
+.custom-search .wrapper div:nth-child(2) .selected:last-child {
+  border-bottom-left-radius: 0.475rem !important;
+  border-bottom-right-radius: 0.475rem !important;
+}
+.custom-search .wrapper div:nth-child(2) .selected:before, .custom-search .wrapper div:nth-child(2) .selected .ellipsis span {
+  color: #FFFFFF !important;
+}
+.custom-search input {
+  display: block !important;
+  width: 100% !important;
+  padding: 0.688rem 0.938rem !important;
+  font-size: 0.875rem !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  color: #6C757D !important;
+  background-color: #FFFFFF !important;
+  background-clip: padding-box !important;
+  border: 1px solid #CED4DA !important;
+  appearance: none !important;
+  padding-left: 42px !important;
+  border-radius: 0.475rem !important;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
+  font-family: Poppins, Helvetica, "sans-serif" !important;
+}
+.custom-search input::placeholder {
+  color: #6C757D !important;
+}
+
+.react-search-icon {
+  left: 13px !important;
+  top: 15px !important;
+  z-index: 99 !important;
+  right: auto !important;
+}
+.recipe{
+  margin-top:20px;
+}
+.custom-text-center {
+  text-align: center !important;
+}
+.text-start {
+  text-align: left !important;
+}
+.text-danger {
+  --bs-text-opacity: 1;
+  color:#F62947, var(--bs-text-opacity) !important;
+}
+.fs-5 {
+  font-size: 0.938rem !important;
+}
+.px-3 {
+  padding-right: 0.75rem !important;
+  padding-left: 0.75rem !important;
+}
+.py-5 {
+  padding-top: 1.25rem !important;
+  padding-bottom: 1.25rem !important;
+}
+.custom-qty {
+  max-width: 140px;
+  /* Firefox */
+}
+.custom-qty input::-webkit-outer-spin-button,
+.custom-qty input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.custom-qty input[type=number] {
+  -moz-appearance: textfield;
+}
+.align-middle {
+  vertical-align: middle !important;
+}
+.btn-sm, .btn-group-sm > .btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 0.313rem;
+}
+.product-name {
+  width: 150px;
+  font-size: 14px;
+  margin-bottom: -18px;
+}
+
+.btn-check:focus + .btn-primary, .btn-primary:focus {
+
+  /* background-color: #2B2358;
+  border-color: #2B2358;
+  box-shadow: 0 0 0 0.25rem rgba(124, 134, 255, 0.5); */
+}
+.btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
+color:#ffff;
+  /* background-color: #2B2358;
+  border-color: #2B2358; */
+}
+.btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(124, 134, 255, 0.5);
+}
+
+.btn-p {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.563rem 1.563rem;
+  font-size: 0.875rem;
+  border-radius: 0.313rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.px-0 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.px-4 {
+  padding-right: 0.5rem!important;
+  padding-left: 1.5rem!important;
+}
+.pt-2 {
+  padding-top: 0.5rem !important;
+}
+.py-2 {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+.ps-3 {
+  padding-left: 0.75rem !important;
+}
+.rounded-0 {
+  border-radius: 0 !important;
+}
+.badge {
+  display: inline-block;
+  padding: 0.344rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.313rem;
+}
+.badge:empty {
+  display: none;
+}
+
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
+.bg-light-success {
+  color: #fff;
+  background-color: #0AC074;
+}
+.text-center {
+  align-items: center !important;
+}
+.align-items-center {
+  align-items: center !important;
+}
+
+.d-md-flex.align-items-center.justify-content-between.mb-5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.text-end.mt-4.mt-md-0 {
+margin: 0 !important;
+}
+.input-group-text {
+  display: flex;
+  align-items: center;
+  padding: 0.688rem 0.938rem;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #2d2e2e;
+  border: 1px solid #2d2e2e;
+  border-radius: 0.313rem;
+}
+.table>:not(:last-child)>:last-child>* {
+   border-bottom-color: none!important;
+}
+.Load-inc{
+  position: absolute;
+  right:0px;
+  margin-top: 20px;
+}
+.Ingredient{
+  margin-top: 250px;
+  
+
+}
+.table-ingre{
+  margin-top: 202px;
+}
+.table-scroll{
+  max-height: 100px;
+  
+    overflow-y: scroll;
+}
+.table-scroll::-webkit-scrollbar {
+display:none}
+.scrollbar::-webkit-scrollbar {
+  display:none}
+
+  .dialog-height{
+    height:70vh
+  }
+  .dialog-receipe{
+    height:90vh
+  }
+  .form-height{
+    height:80vh
+  }
+  .css-6hp17o-MuiList-root-MuiMenu-list {
+    list-style: none! important;
+    margin: 0 ! important;
+    padding: 0 ! important;
+    position: relative! important;
+    padding-top: 8px ! important;
+    padding-bottom: 8px ! important;
+    outline: 0 ! important;
+ 
+}
+  .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+    display: flex ! important;
+    border: 0! important;
+    margin: 0! important;
+    border-radius: 0! important;
+    padding: 0 10px! important;
+    cursor: pointer ! important;
+    -webkit-user-select: none ! important;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-weight: 400 ! important;
+    font-size: 1rem ! important;
+    line-height: 1.5 ! important;
+    letter-spacing: 0.00938em ! important;
+    vertical-align: middle ! important;
+    -moz-appearance: none! important;
+    -webkit-appearance: none ! important;
+    justify-content: flex-start ! important;
+    position: relative ! important;
+  }
+  .table-left{
+    width: 90%;
+    float: left;
+
+  }
+  .makeStyles-primary-15 .MuiButton-label {
+    color: #3e52c1 ! important;
+}
+@media (max-width: 576px) {
+.MuiTableCell-head {
+  color: rgba(0, 0, 0, 0.87);
+   font-weight: 300;
+  line-height: 0.8;
+  font-size: 10px;
+}
+}
+.MuiPaper-elevation{
+  border: none !important;
+  box-shadow: none !important;
+}
+.small-cell {
+ padding:3px  !important;
+}
+/* .MuiTableRow-root td:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.MuiTableRow-root td:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+} */
+.input-field{
+  border: 1px solid #ced4da !important;
+    border-radius: 5px;
+}
+
+.left-side{
+  width:500px !important;
+padding:6px!important;
+
+}
+ .left-side .css-2b097c-container .css-yk16xz-control  {
+  width:100% !important;
+  cursor: pointer !important;
+   height: 100%  !important;
+   
+   
+  }
+  
+  /* .left-side .css-g1d714-ValueContainer {
+    padding:5px;
+    width: 450px!important;
+    font-weight: 700;
+  }  */

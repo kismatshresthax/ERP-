@@ -1,0 +1,103 @@
+.addbtn {
+  float: right;
+  /* color: rgb(189, 68, 68); */
+}
+
+.title {
+  font-size: 2em;
+  font-weight: 100;
+}
+.pd-15 {
+  padding-bottom: 15px;
+}
+
+.color-toggle {
+  color: dodgerblue;
+}
+.color-radiobutton {
+  color: dodgerblue;
+}
+
+.step-form {
+  text-align: center;
+}
+.center-stepper {
+  display: flex;
+  justify-content: center;
+}
+.nav-icon {
+  size: 400px;
+}
+.row {
+  size: "1px";
+}
+.pt-50 {
+  padding-top: 50px;
+}
+.pl-10{
+  padding-left: 10px;
+}
+.pl-700{
+  padding-left: 700px;
+}
+.pl-200{
+  padding-left: 200px;
+}
+.pl-300{
+  padding-left: 300px;
+}
+.pl-400{
+  padding-left: 400px;
+}
+.pl-500{
+  padding-left: 500px;
+}
+.pl-600{
+  padding-left: 600px;
+}
+.pr-200{
+  padding-right: 200px;
+}
+.pt-5 {
+  padding-top: 5px;
+}
+.pb-5 {
+  padding: 5px;
+}
+.pb-2 {
+  padding: 2px;
+}
+.pb-1{
+  padding: 1px;
+}
+.pl-20{
+  padding-left: 20px
+}
+.pr-20{
+  padding-right: 20px;
+}
+.pl-1{
+  padding-left: 1px;
+}
+.pr-10{
+  padding-right: 10px;
+}
+.pr-100{
+  padding-right: 100px;
+}
+.pl-35{
+  padding-left: 35px
+}
+.pl-50{
+  padding-left: 50px
+}
+.pl-30{
+  padding-left: 30px
+}
+.select-width{
+  width: "1px";
+  height: "1px";
+}
+.pb-30{
+  padding-bottom: 30px
+}

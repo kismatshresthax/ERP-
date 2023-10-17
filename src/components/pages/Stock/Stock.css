@@ -1,0 +1,10 @@
+.text {
+    font-size: 10px;
+  }
+  
+  @media (min-width: 768px) {
+    .text {
+      font-size: 9px;
+    }
+  }
+  

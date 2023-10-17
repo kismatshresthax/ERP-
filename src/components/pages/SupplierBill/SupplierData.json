@@ -1,0 +1,141 @@
+[{
+    "id": 1,
+    "supplier_name": "Giff Onele",
+    "bill_1_date": "6/27/2023",
+    "Amount_1": 9665,
+    "bill_2_date": "7/20/2023",
+    "Amount_2": 225
+  }, {
+    "id": 2,
+    "supplier_name": "Chadd Swanbourne",
+    "bill_1_date": "8/14/2023",
+    "Amount_1": 8687,
+    "bill_2_date": "6/18/2023",
+    "Amount_2": 392
+  }, {
+    "id": 3,
+    "supplier_name": "Jody Hambidge",
+    "bill_1_date": "6/10/2023",
+    "Amount_1": 1924,
+    "bill_2_date": "7/18/2023",
+    "Amount_2": 461
+  }, {
+    "id": 4,
+    "supplier_name": "Guntar McLagan",
+    "bill_1_date": "6/26/2023",
+    "Amount_1": 4619,
+    "bill_2_date": "7/2/2023",
+    "Amount_2": 868
+  }, {
+    "id": 5,
+    "supplier_name": "Flossi Shepherdson",
+    "bill_1_date": "7/27/2023",
+    "Amount_1": 2302,
+    "bill_2_date": "6/7/2023",
+    "Amount_2": 613
+  }, {
+    "id": 6,
+    "supplier_name": "Galen Renish",
+    "bill_1_date": "6/8/2023",
+    "Amount_1": 7646,
+    "bill_2_date": "8/20/2023",
+    "Amount_2": 577
+  }, {
+    "id": 7,
+    "supplier_name": "Perkin Habberjam",
+    "bill_1_date": "7/5/2023",
+    "Amount_1": 7935,
+    "bill_2_date": "8/19/2023",
+    "Amount_2": 659
+  }, {
+    "id": 8,
+    "supplier_name": "Natala Devonport",
+    "bill_1_date": "8/3/2023",
+    "Amount_1": 7794,
+    "bill_2_date": "8/11/2023",
+    "Amount_2": 318
+  }, {
+    "id": 9,
+    "supplier_name": "Cy Pidler",
+    "bill_1_date": "7/28/2023",
+    "Amount_1": 4644,
+    "bill_2_date": "6/23/2023",
+    "Amount_2": 973
+  }, {
+    "id": 10,
+    "supplier_name": "Jammal Corrigan",
+    "bill_1_date": "8/13/2023",
+    "Amount_1": 9802,
+    "bill_2_date": "7/3/2023",
+    "Amount_2": 531
+  }, {
+    "id": 11,
+    "supplier_name": "Karole Oddie",
+    "bill_1_date": "6/1/2023",
+    "Amount_1": 9641,
+    "bill_2_date": "6/17/2023",
+    "Amount_2": 633
+  }, {
+    "id": 12,
+    "supplier_name": "Lewie Eagland",
+    "bill_1_date": "6/10/2023",
+    "Amount_1": 5716,
+    "bill_2_date": "7/15/2023",
+    "Amount_2": 990
+  }, {
+    "id": 13,
+    "supplier_name": "Arvie Spering",
+    "bill_1_date": "7/25/2023",
+    "Amount_1": 5339,
+    "bill_2_date": "8/5/2023",
+    "Amount_2": 206
+  }, {
+    "id": 14,
+    "supplier_name": "Vivia Queste",
+    "bill_1_date": "7/27/2023",
+    "Amount_1": 5706,
+    "bill_2_date": "7/27/2023",
+    "Amount_2": 747
+  }, {
+    "id": 15,
+    "supplier_name": "Joshuah Gavaghan",
+    "bill_1_date": "6/14/2023",
+    "Amount_1": 8460,
+    "bill_2_date": "6/12/2023",
+    "Amount_2": 945
+  }, {
+    "id": 16,
+    "supplier_name": "Frank Walcar",
+    "bill_1_date": "7/3/2023",
+    "Amount_1": 2580,
+    "bill_2_date": "6/3/2023",
+    "Amount_2": 969
+  }, {
+    "id": 17,
+    "supplier_name": "Maximo Blei",
+    "bill_1_date": "7/10/2023",
+    "Amount_1": 7258,
+    "bill_2_date": "8/2/2023",
+    "Amount_2": 624
+  }, {
+    "id": 18,
+    "supplier_name": "Walton Stalman",
+    "bill_1_date": "6/3/2023",
+    "Amount_1": 8646,
+    "bill_2_date": "8/10/2023",
+    "Amount_2": 268
+  }, {
+    "id": 19,
+    "supplier_name": "Brodie Crandon",
+    "bill_1_date": "7/4/2023",
+    "Amount_1": 1058,
+    "bill_2_date": "8/16/2023",
+    "Amount_2": 210
+  }, {
+    "id": 20,
+    "supplier_name": "Cheston Reboul",
+    "bill_1_date": "7/3/2023",
+    "Amount_1": 5849,
+    "bill_2_date": "6/18/2023",
+    "Amount_2": 946
+  }]

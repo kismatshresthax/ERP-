@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "Card": "Cash",
+    "Amount": 423,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 2,
+    "Card": "Credit",
+    "Amount": 764,
+    "Date": "8/3/2023"
+  },
+  {
+    "id": 3,
+    "Card": "fonePay",
+    "Amount": 120,
+    "Date": "8/8/2023"
+  },
+  {
+    "id": 4,
+    "Card": "Esewa",
+    "Amount": 118,
+    "Date": "8/6/2023"
+  },
+  {
+    "id": 5,
+    "Card": "Credit",
+    "Amount": 212,
+    "Date": "8/5/2023"
+  },
+  {
+    "id": 6,
+    "Card": "fonePay",
+    "Amount": 952,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 7,
+    "Card": "fonePay",
+    "Amount": 704,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 8,
+    "Card": "Khalti",
+    "Amount": 801,
+    "Date": "8/6/2023"
+  },
+  {
+    "id": 9,
+    "Card": "Credit",
+    "Amount": 176,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 10,
+    "Card": "Khalti",
+    "Amount": 842,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 11,
+    "Card": "Esewa",
+    "Amount": 967,
+    "Date": "8/7/2023"
+  },
+  {
+    "id": 12,
+    "Card": "Credit",
+    "Amount": 654,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 13,
+    "Card": "fonePay",
+    "Amount": 243,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 14,
+    "Card": "Cash",
+    "Amount": 832,
+    "Date": "8/5/2023"
+  },
+  {
+    "id": 15,
+    "Card": "fonePay",
+    "Amount": 192,
+    "Date": "8/3/2023"
+  },
+  {
+    "id": 16,
+    "Card": "Cash",
+    "Amount": 381,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 17,
+    "Card": "fonePay",
+    "Amount": 478,
+    "Date": "8/6/2023"
+  },
+  {
+    "id": 18,
+    "Card": "Esewa",
+    "Amount": 973,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 19,
+    "Card": "fonePay",
+    "Amount": 286,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 20,
+    "Card": "Esewa",
+    "Amount": 758,
+    "Date": "8/5/2023"
+  },
+  {
+    "id": 21,
+    "Card": "Khalti",
+    "Amount": 355,
+    "Date": "8/7/2023"
+  },
+  {
+    "id": 22,
+    "Card": "Khalti",
+    "Amount": 455,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 23,
+    "Card": "fonePay",
+    "Amount": 456,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 24,
+    "Card": "Khalti",
+    "Amount": 958,
+    "Date": "8/6/2023"
+  },
+  {
+    "id": 25,
+    "Card": "Credit",
+    "Amount": 923,
+    "Date": "8/6/2023"
+  },
+  {
+    "id": 26,
+    "Card": "fonePay",
+    "Amount": 468,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 27,
+    "Card": "fonePay",
+    "Amount": 633,
+    "Date": "8/4/2023"
+  },
+  {
+    "id": 28,
+    "Card": "fonePay",
+    "Amount": 224,
+    "Date": "8/6/2023"
+  },
+  {
+    "id": 29,
+    "Card": "Cash",
+    "Amount": 195,
+    "Date": "8/9/2023"
+  },
+  {
+    "id": 30,
+    "Card": "fonePay",
+    "Amount": 774,
+    "Date": "8/4/2023"
+  }
+]

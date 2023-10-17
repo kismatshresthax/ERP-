@@ -1,0 +1,30 @@
+
+ 
+  a {
+    text-decoration: none;
+  }
+  .list li {
+    padding-top: 15px;
+    align-items: start;
+  }
+  
+  .report-title h2 {
+    margin: 1px;
+  padding-left:29px;
+  
+   
+  }
+  /* th,
+  td {
+    padding: 10px;
+  } */
+  .addButton {
+    position: relative;
+  }
+  .addbtn {
+    position: absolute !important;
+  
+    right: 2.5rem !important;
+    top: 2.8rem !important;
+    margin: 0 !important;
+  }

@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&Fira+Sans&family=Poppins&display=swap');
+
+.main {
+    font-family: 'Karla', sans-serif;
+    height: 100vh;
+}
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* .wrapper {
+    border-radius: 15px;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 10px rgb(0 0 0 / 0.2);
+    align-items: center;
+    height: 400px;
+    width: 500px;
+} */
+
+.contain {
+    padding: 10px;
+     text-align: center;
+ }
+ .form {
+     display: flex;
+     padding: 10px;
+     flex-direction: column;
+     width: 380px;
+     height: 300px;
+ }
+ .formInput{
+     border-radius: 5px;
+     border-color: #e5e5e5;
+     border-style: solid;
+     border-width: 0.5px;
+     margin-bottom: 10px;
+     padding: 10px;
+ }
+ .formSubmit {
+     border-radius: 5px;
+     color: #03045e;
+     padding: 8px;
+     border-style: solid;
+     border-color: #03045e;
+     width: 75px;
+     align-self: flex-end;
+ }
+
+ .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.otpimg {
+    width: 120px;
+    padding: 5px;
+}
+
+.formSelect{
+    width: 380px;
+    border-radius: 5px;
+    border-color: #e5e5e5;
+    border-style: solid;
+    border-width: 0.5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.multipleButtons {
+    padding: 10px;
+    align-self: flex-end;
+}
+.multipleButton {
+    margin-right: 5px;
+    border-radius: 5px;
+     color: #03045e;
+     padding: 8px;
+     border-style: solid;
+     border-color: #03045e;
+     width: 75px;
+}
+
+.done {
+    width: 65px;
+    margin-bottom: 10px;
+}
+.doneSubmit {
+    margin-top: 10px;
+    border-radius: 5px;
+    color: #03045e;
+    padding: 8px;
+    border-style: solid;
+    border-color: #03045e;
+    width: 85px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* select, textarea, button {
+    font: 99% sans-serif;
+    font-size: 5px;
+}
+input {                   
+    line-height: 10px;
+    height: 10px;
+    font-size: 4px;
+    box-sizing: border-box;
+ 
+  }
+   */
+   .form-input {
+     width: "50px" 
+   }
+
+
+
+
+
+   body {
+    /* margin-top: 20px; */
+  overflow-x: hidden;
+    /* background: darkgray; */
+  }
+  
+  .myinvoice {
+    margin-right: 80px;
+    margin-left: 80px;
+    border: 2px;
+    border-radius: 20px;
+    border-color: aqua;
+  }
+  
+  /*Invoice*/
+  .invoice .top-left {
+    font-size: 65px;
+    color: #3ba0ff;
+  }
+  
+  .invoice .top-right {
+    text-align: right;
+    padding-right: 20px;
+  }
+  
+  .invoice .table-row {
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: 25px;
+  }
+  
+  .invoice .payment-info {
+    font-weight: 500;
+  }
+  
+  .invoice .table-row .table > thead {
+    border-top: 1px solid #ddd;
+  }
+  
+  .invoice .table-row .table > thead > tr > th {
+    border-bottom: none;
+  }
+  
+  .invoice .table > tbody > tr > td {
+    padding: 8px 20px;
+  }
+  
+  .invoice .invoice-total {
+    margin-right: -10px;
+    font-size: 16px;
+  }
+  
+  .invoice .last-row {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .invoice-ribbon {
+    width: 85px;
+    height: 88px;
+    overflow: hidden;
+    position: absolute;
+    top: -1px;
+    right: 14px;
+  }
+  
+  .ribbon-inner {
+    text-align: center;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    position: relative;
+    padding: 7px 0;
+    left: -5px;
+    top: 11px;
+    width: 120px;
+    background-color: #66c591;
+    font-size: 15px;
+    color: #fff;
+  }
+  
+  .ribbon-inner:before,
+  .ribbon-inner:after {
+    content: "";
+    position: absolute;
+  }
+  
+  .ribbon-inner:before {
+    left: 0;
+  }
+  
+  .ribbon-inner:after {
+    right: 0;
+  }
+  
+  @media (max-width: 575px) {
+    .invoice .top-left,
+    .invoice .top-right,
+    .invoice .payment-details {
+      text-align: center;
+    }
+  
+    .invoice .from,
+    .invoice .to,
+    .invoice .payment-details {
+      float: none;
+      width: 100%;
+      text-align: center;
+      margin-bottom: 25px;
+    }
+  
+    .invoice p.lead,
+    .invoice .from p.lead,
+    .invoice .to p.lead,
+    .invoice .payment-details p.lead {
+      font-size: 22px;
+    }
+  
+    .invoice .btn {
+      margin-top: 10px;
+    }
+  }
+  
+  @media print {
+    .invoice {
+      width: 900px;
+      height: 800px;
+    }
+  }
+  
